@@ -29,7 +29,7 @@ export default function Home() {
           target="_blank"
           className="block bg-green-500 hover:bg-green-600 transition text-white font-bold py-4 rounded-lg text-xl mb-4"
         >
-          Solicitar acceso por WhatsApp
+          JUGAR!
         </a>
 
         {/* BONO */}
