@@ -25,7 +25,7 @@ export default function Home() {
 
         {/* BOTÓN WHATSAPP */}
         <a
-          href="https://wa.me/5491140917830?text=Hola%20quiero%20crear%20mi%20usuario%20en%20Ases%20del%20Norte"
+          href="https://wa.me/5493562512934?text=Hola%20quiero%20crear%20mi%20usuario%20en%20Ases%20del%20Norte"
           target="_blank"
           className="block bg-green-500 hover:bg-green-600 transition text-white font-bold py-4 rounded-lg text-xl mb-4"
         >
